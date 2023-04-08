@@ -1,7 +1,7 @@
 export default [
     {
         "_id": "123", 
-        "topic": "Space", 
+        "topic": "Space",
         "username": "SpaceX",
         "handle": "@spacex", 
         "time": "2h", 
@@ -12,7 +12,7 @@ export default [
         "likes": 2345, 
         "replies": 123, 
         "retuits": 432, 
-        "dislikes":222
+        "dislikes": 222
     },
     {
         "_id": "234", 
@@ -27,7 +27,7 @@ export default [
         "likes": 2345, 
         "replies": 321, 
         "retuits": 432,
-        "dislikes":222
+        "dislikes": 222
     },
     {
         "_id": "345", 
@@ -42,6 +42,6 @@ export default [
         "likes": 3456, 
         "replies": 345, 
         "retuits": 654,
-        "dislikes":222
+        "dislikes": 222
     },
 ];
